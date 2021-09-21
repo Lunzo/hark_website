@@ -78,6 +78,6 @@ paginate = 5
         name = "Gigs"
         url = "/gigs"
       [[languages.en.menu.main]]
-        identifier = "news"
+        identifier = "posts"
         name = "News"
-        url = "/news"
+        url = "/posts"

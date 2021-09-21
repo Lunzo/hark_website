@@ -3,7 +3,7 @@ title: "About"
 date: 2021-09-19T20:48:25-07:00
 draft: false
 ---
-Hark is the solo project of Mark Lunney. I have a wide range of influences: power and progressive metal, prog rock, jazz fusion, classical, anything from the 80s and the darker side of synthwave.
+Hark is my solo project. I have a wide range of influences: power and progressive metal, prog rock, jazz fusion, early electronic music, classical, anything from the 80s and the darker side of synthwave.
 
 I plan to bring a darker, heavier sound to some familiar tunes. I also plan on enlisting the help of some guest musicians and vocalists on most songs.
 
