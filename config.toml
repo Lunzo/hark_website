@@ -13,7 +13,7 @@ paginate = 5
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = false
@@ -72,12 +72,17 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "music"
         name = "Music"
-        url = "/music"
+        # Redirect to social until I have something released on Spotify/Bandcamp
+        url = "/social"
+      [[languages.en.menu.main]]
+        identifier = "social"
+        name = "Social Media"
+        url = "/social"
       [[languages.en.menu.main]]
         identifier = "gigs"
         name = "Gigs"
         url = "/gigs"
       [[languages.en.menu.main]]
         identifier = "posts"
-        name = "News"
+        name = "Blog"
         url = "/posts"
