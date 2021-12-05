@@ -7,7 +7,7 @@ Hark is my solo project. I have a wide range of influences: power and progressiv
 
 I plan to bring a darker, heavier sound to some familiar tunes. I also plan on enlisting the help of some guest musicians and vocalists on most songs.
 
-![rocking out](Hark_about.png "Rocking out")
+![rocking out](about/Hark_about.png "Rocking out")
 
 I grew up learning piano and clarinet, mostly classical music. My younger brother and one of my high school friends introduced me to heavy metal, but at that point in my life I was purely a listener. During and after university I gave up music for a while, but in 2017 I decided to get back into music again and I bought a synthesizer instead of a more traditional keyboard. I had realized that I gravitated more to synth sounds than piano and wanted to try my hand at playing like some of my heroes in the genres listed earlier.
 
