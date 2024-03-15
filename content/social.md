@@ -8,4 +8,4 @@ draft: false
 ### [Facebook](https://www.facebook.com/hark.fun)
 ### [TikTok](https://www.tiktok.com/@hark.fun?lang=en)
 
-I infrequently upload videos to the above social media sites. Follow the link to your favorite and follow me. I post behind the scenes and sneak peaks of work in progress, jams and covers.
+I upload videos to the above social media sites. Follow the link to your favorite and follow me. I post behind the scenes videos, sneak peeks of work in progress, jams and covers.
