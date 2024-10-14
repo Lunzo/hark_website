@@ -46,19 +46,20 @@ paginate = 5
 
 [languages]
   [languages.en]
-    languageName = "English"
-    title = "Hark"
-    subtitle = ""
-    owner = ""
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+    [languages.en.params]
+      languageName = "English"
+      title = "Hark"
+      subtitle = ""
+      owner = ""
+      keywords = ""
+      copyright = ""
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
       logoText = "Hark"
