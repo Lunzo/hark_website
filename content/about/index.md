@@ -13,4 +13,4 @@ I grew up learning piano and clarinet, mostly classical music. My younger brothe
 
 More recently I discovered the worlds of synthwave and darksynth. The latter aligns with my musical taste and due to its more experimental nature allows me to blend in some of my other influences. It's currently the ideal style for me to express myself.
 
-This is very much a hobby for me - I have a career in software - but I do aim to release several songs each year. Hope you enjoy listening!
+This is very much a hobby for me - I have a career in software - but I do aim to release several songs each year. I hope you enjoy listening!
