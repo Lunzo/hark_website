@@ -4,6 +4,8 @@ date = "2024-03-15T12:10:00-07:00"
 author = "Hark"
 description = "My reflections on the experience of recording jams daily for 21 days."
 showFullContent = false
+tags = ["jamuary", "live"]
+keywords = ["Jamuary", "Jamming", "Live"]
 +++
 
 # What is Jamuary?
