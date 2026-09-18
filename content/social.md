@@ -11,7 +11,7 @@ I post videos to these social media sites. Click through for music videos, behin
 - [TikTok](https://www.tiktok.com/@hark.fun?lang=en)
 
 # Listen
-Find me on all good music streaming services.
+You can find my music on all streaming services. Here is a selection:
 
 - [Bandcamp](https://hark-fun.bandcamp.com/)
 - [Spotify](https://open.spotify.com/artist/4qT9ZHjYpYZ3MZ7J6K0Fb8?si=skku-YoKTPWfkgwfTSdGXg)
